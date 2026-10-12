@@ -1,0 +1,46 @@
+Feature,Importance
+num__tenure,0.12599254715308444
+cat__Contract_Month-to-month,0.12086256501930359
+num__TotalCharges,0.10059868441064364
+num__MonthlyCharges,0.07339746781716643
+cat__Contract_Two year,0.06314674343776885
+cat__OnlineSecurity_No,0.06108926822359247
+cat__InternetService_Fiber optic,0.04877966466605324
+cat__TechSupport_No,0.04583499406150864
+cat__PaymentMethod_Electronic check,0.03528425926333891
+cat__Contract_One year,0.019134005553230835
+cat__OnlineBackup_No,0.018348416408829556
+cat__InternetService_DSL,0.014795900688575024
+cat__OnlineSecurity_Yes,0.012920942116238099
+cat__PaperlessBilling_No,0.012479811311734592
+cat__PaperlessBilling_Yes,0.012223296396537173
+cat__TechSupport_Yes,0.011940050832208232
+cat__DeviceProtection_No,0.011507164291269778
+cat__StreamingMovies_No internet service,0.010035211467544523
+cat__gender_Female,0.009756002595777394
+cat__gender_Male,0.009486001211545208
+cat__OnlineBackup_Yes,0.00924045536331009
+cat__InternetService_No,0.00917801274520247
+cat__PaymentMethod_Credit card (automatic),0.009022893617587582
+cat__Dependents_No,0.008909638534272747
+cat__Dependents_Yes,0.008693079271404187
+cat__Partner_Yes,0.008585859617038614
+cat__PaymentMethod_Bank transfer (automatic),0.008497083408904541
+cat__MultipleLines_No,0.008428226042867198
+cat__Partner_No,0.008392834832449191
+cat__MultipleLines_Yes,0.008330777779996834
+cat__StreamingTV_Yes,0.008139720970782973
+cat__StreamingMovies_Yes,0.008032925989513865
+num__SeniorCitizen,0.008002581394563236
+cat__StreamingMovies_No,0.00769324965023764
+cat__StreamingTV_No internet service,0.007505047064127605
+cat__StreamingTV_No,0.007266316305207365
+cat__PaymentMethod_Mailed check,0.007202930995497527
+cat__OnlineBackup_No internet service,0.00674448556023163
+cat__OnlineSecurity_No internet service,0.006681169205355327
+cat__TechSupport_No internet service,0.006671301138009924
+cat__DeviceProtection_Yes,0.006453048778995657
+cat__DeviceProtection_No internet service,0.005488459746330758
+cat__PhoneService_Yes,0.0031599994392920603
+cat__MultipleLines_No phone service,0.0030828112083777187
+cat__PhoneService_No,0.0029840944144925814
